@@ -1,0 +1,29 @@
+
+
+.outerItem{
+    margin: auto;
+    width: 420px;
+   
+}
+.itemDiv{
+   
+    display: flex;
+    width: 400px;
+   
+    justify-content: space-between;
+    margin-top: 5px;
+    padding: 5px;
+    padding-left: 15px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+   
+}
+.value{
+    display: flex;
+    font-size: larger;
+    width:250px;
+   
+    height: 30px;
+    align-items: center;
+    color: brown;
+}
